@@ -36,7 +36,7 @@
 
 <div align="center">
     <h3>Full Music Album - Artist Cover</h3>
-    <img src="music_album_cover.png" alt="Music album cover art" height="80%" width="80%">
+    <img src="full_music_album.png" alt="Music album cover art" height="80%" width="80%">
     <p>Entire album illegally downloaded and shared.</p>
 </div>
 
